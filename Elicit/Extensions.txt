@@ -1,0 +1,2 @@
+RQ1: What machine learning algorithms most effectively extract temporal features for robust object tracking in drone video streams with varying environmental conditions?
+RQ2: What specific temporal features (e.g., motion trajectories, frame-to-frame consistency) most effectively improve object detection and tracking accuracy in drone video streams?

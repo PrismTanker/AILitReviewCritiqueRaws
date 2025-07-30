@@ -6,3 +6,9 @@ Each tool produced two literature reviews, prompted using the two research quest
 
 All PDFs were exported from AI tools directly. The exception to this was consensus, which only offered
 raw text export. Formatting was recreated within this raw text using Markdown and exported to PDF manually. All exports were conducted immediately upon review generation.
+
+### Specific tool notes:
+- *Elicit*:
+`Extensions.txt` provides the exact, final search strings provided to Elicit after following the tool's recommendations.
+
+- *GPT*: `Clarifications` provides the questions GPT asked before it would conduct research, paired with our responses to these questions.

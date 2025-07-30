@@ -1,0 +1,17 @@
+[[GPT]]
+Could you please clarify a few details so I can provide a trustworthy and comprehensive answer:
+
+1. What is the target application domain (e.g., surveillance, wildlife monitoring, traffic analysis)?
+2. Are you working with RGB video, thermal, or multispectral data?
+3. What frame rate and resolution do your drone video streams typically have?
+4. Do you have constraints related to computation (e.g., real-time inference on edge devices)?
+5. Are you focused on existing methods, or are you looking to develop a new approach?
+
+This will help tailor the recommendations and research direction appropriately.
+
+[[Our Response]]
+1. There is no specific target domain.
+2. Drones will be equipped with RGB video cameras, but can be equipped with other cameras and sensors as techniques require.
+3. There is no specific frame rate requirement
+4. No constraints on computation
+5. I am focused on reviewing existing methods.
